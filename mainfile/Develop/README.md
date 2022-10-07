@@ -1,10 +1,9 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
     
-(https://opensource.org/licenses/MIT)
-    
 
-# tarek
+
+# sdf
 
 ## Description
 sdf 
@@ -22,7 +21,11 @@ sdf
 sdf 
 
 ## License
-MIT 
+[link](https://opensource.org/licenses/MIT)
+    
+
+MIT License
+A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code. 
 
 ## How to Contribute
 sdf 
