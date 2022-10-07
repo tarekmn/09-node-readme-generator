@@ -81,7 +81,7 @@ function init() {
       type: 'list',
       message: questions[8],
       name: 'license',
-      choices: ['MIT', 'ISC', 'MPL 2.0', 'IPL 1.0' ]
+      choices: ['MIT', 'ISC', 'MPL 2.0', 'IPL 1.0', 'none' ]
     },
   ])
   .then((data) => {
