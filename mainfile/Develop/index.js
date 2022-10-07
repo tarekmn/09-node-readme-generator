@@ -78,10 +78,10 @@ function init() {
       name: 'test'
     },
     {
-      type: 'checkbox',
+      type: 'list',
       message: questions[8],
       name: 'license',
-      choices: ['MIT', 'GNU General', 'BSD2', 'Boost Software', 'The Unlicense' ]
+      choices: ['MIT', 'ISC', 'MPL 2.0', 'IPL 1.0' ]
     },
   ])
   .then((data) => {
