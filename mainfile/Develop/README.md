@@ -6,7 +6,7 @@
 # Tarek's project
 
 ## Description
-this is a readme file generator 
+this is a readme generator 
 
 ## Table of Contents 
 - [Installation](#installation)
@@ -31,7 +31,7 @@ A short and simple permissive license with conditions only requiring preservatio
 contribute as you please 
 
 ## Tests
-stress test as needed 
+test as needed 
 
 
 ## Questions
