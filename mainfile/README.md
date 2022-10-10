@@ -28,7 +28,7 @@ https://github.com/tarekmn/09-node-readme-generator
 In addition, I included a Screencastify video url: 
 
 
-![Tutorial #1]("https://drive.google.com/file/d/1_CA61H3H76njSRBoKXSzGEmXWctS4nE_/preview")
+https://drive.google.com/file/d/1_CA61H3H76njSRBoKXSzGEmXWctS4nE_/view
 
 
 
