@@ -85,9 +85,6 @@ function init() {
       },
     ])
     .then((data) => {
-      console.log(data.title)
-      console.log(data.test)
-      console.log(data.license)
       writeToFile(generateMarkdown(data));
     })
 

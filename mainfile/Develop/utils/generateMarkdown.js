@@ -1,5 +1,4 @@
-// TODO: Create a function that returns a license badge based on which license is passed in
-// If there is no license, return an empty string
+// Function that returns a license badge based on which license is passed in
 function renderLicenseBadge(license) {
   if (license === 'MIT' || license === 'ISC') {
     return `[![License: ${license}](https://img.shields.io/badge/License-${license}-yellow.svg)](https://opensource.org/licenses/${license})
@@ -15,8 +14,7 @@ function renderLicenseBadge(license) {
 
 }
 
-// TODO: Create a function that returns the license link
-// If there is no license, return an empty string
+//Function that returns the license link, if there is no license, return an empty string
 function renderLicenseLink(license) {
   if (license === 'MIT' || license === 'ISC') {
     return `[link](https://opensource.org/licenses/${license})
@@ -31,8 +29,7 @@ function renderLicenseLink(license) {
   }
 }
 
-// TODO: Create a function that returns the license section of README
-// If there is no license, return an empty string
+//Function that returns the license section of README, if there is no license, return an empty string
 function renderLicenseSection(license) {
 
   if (license === "MIT") {
@@ -60,7 +57,7 @@ A license with no conditions whatsoever which dedicates works to the public doma
 
 }
 
-// TODO: Create a function to generate markdown for README
+// Function to generate markdown for README
 function generateMarkdown(data) {
 
 
